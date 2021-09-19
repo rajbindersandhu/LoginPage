@@ -1,3 +1,24 @@
+LOGIN PAGE
+
+Application renders a simple login page with : "Username" and "Password".
+
+"Username" -> Only takes an alpha-numeric characters , underscore("_") and dot(".") as its input . 
+If input is within defined instruction , input box will glow "green" with a thumbs up icon at end . If input is incorrect box will glow "red" with a thumbs down icon .
+Thumbs down icon can be clicked to know the error .(Only thumbs down icon can cliked to know the error)
+
+
+"Password" -> Input should have minimum one lower case character , one upper case character, one number , one special character and input should be of minimum 8 characters.
+If input is within defined instruction , input box will glow "green" with a thumbs up icon at end . If input is incorrect box will glow "red" with a thumbs down icon .
+Thumbs down icon can be clicked to know the error .(Only thumbs down icon can cliked to know the error)
+
+Submit -> on submission modal will appear , congratulating on login . At boottom of the modal click "Log Out" button to restart again . 
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
