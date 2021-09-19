@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/LoginPage/static/css/main.2b5a5dde.chunk.css",
+    "main.js": "/LoginPage/static/js/main.25ada490.chunk.js",
+    "main.js.map": "/LoginPage/static/js/main.25ada490.chunk.js.map",
+    "runtime-main.js": "/LoginPage/static/js/runtime-main.af1f0192.js",
+    "runtime-main.js.map": "/LoginPage/static/js/runtime-main.af1f0192.js.map",
+    "static/js/2.10fae03d.chunk.js": "/LoginPage/static/js/2.10fae03d.chunk.js",
+    "static/js/2.10fae03d.chunk.js.map": "/LoginPage/static/js/2.10fae03d.chunk.js.map",
+    "static/js/3.f9e9af46.chunk.js": "/LoginPage/static/js/3.f9e9af46.chunk.js",
+    "static/js/3.f9e9af46.chunk.js.map": "/LoginPage/static/js/3.f9e9af46.chunk.js.map",
+    "index.html": "/LoginPage/index.html",
+    "static/css/main.2b5a5dde.chunk.css.map": "/LoginPage/static/css/main.2b5a5dde.chunk.css.map",
+    "static/js/2.10fae03d.chunk.js.LICENSE.txt": "/LoginPage/static/js/2.10fae03d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/LoginPage/static/media/pattern-background-desktop.5a0ab689.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af1f0192.js",
+    "static/js/2.10fae03d.chunk.js",
+    "static/css/main.2b5a5dde.chunk.css",
+    "static/js/main.25ada490.chunk.js"
+  ]
+}
